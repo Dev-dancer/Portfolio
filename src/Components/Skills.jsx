@@ -4,7 +4,7 @@ export const Skills = (props) => {
   return (
     <>
     <div id="skills">
-       <h1 className='text-transparent bg-clip-text bg-gradient-to-r to-slate-700 from-slate-500 text-3xl w-fit font-extrabold border-b-4 ml-4 border-slate-700 md:text-4xl'>SKILLS</h1>
+       <h1 className='text-transparent bg-clip-text bg-gradient-to-r to-slate-700 from-slate-500 text-3xl w-fit font-extrabold border-b-4 ml-4 border-slate-700 md:text-4xl mt-6'>SKILLS</h1>
        
        <div className='m-4 flex flex-col gap-5 md:grid md:grid-cols-2  lg:grid-cols-3 '>
 
