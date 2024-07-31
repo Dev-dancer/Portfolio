@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       height:{
-        '128':'35rem'
+        '128':'20rem'
       },
       colors: {
         primary: "var(--primary-color)",
