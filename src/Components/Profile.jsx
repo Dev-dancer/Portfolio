@@ -10,7 +10,7 @@ export const Profile = () => {
     <div id="large-display-classes" className='lg:grid lg:grid-cols-2 '>
      <div className="flex flex-row p-4 m-4 bg-slate-200 rounded-xl md:justify-center lg:items-center lg:flex-col xl:flex-row">
 
-    <img className="w-32 h-32 rounded-full border-4 border-white  outline-blue-400 outline md:w-40 md:h-40 lg:w-72 lg:h-72 lg:outline-none lg:rounded-xl lg:border-none" src="public\placeholder image.png" alt="" />
+    <img className="w-32 h-32 rounded-full border-4 border-white  outline-blue-400 outline md:w-40 md:h-40 lg:w-72 lg:h-72 lg:outline-none lg:rounded-xl lg:border-none" src="src\Images\placeholder image.png" alt="" />
     <div className="p-3  lg:text-center xl:text-left" id="header">
         <h1 className="text-3xl font-semibold">ABC</h1>
         <p className='text-xl font-medium'>Web Developer</p>

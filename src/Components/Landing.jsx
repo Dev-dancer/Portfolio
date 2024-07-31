@@ -10,7 +10,7 @@ function Landing() {
   return (
     <>
 
-    <div className='bg-slate-200 p-2 bg-[url("public/background.jpg")] bg-cover opacity-80 h-full  md:h-72 lg:h-128'>
+    <div className='bg-slate-200 p-2 bg-[url("src\Images\background.jpg")] bg-cover opacity-80 h-full  md:h-72 lg:h-128'>
     <div className='md:flex md:flex-col md:items-center'>
 
     <h1 className=' font-extrabold text-6xl grid  text-white  md:text-7xl md:inline lg:text-7xl lg:mt-20 xl:text-9xl '>HI I AM <p className='text-transparent bg-clip-text bg-gradient-to-r to-sky-700 from-emerald-500  md:text-7xl md:inline lg:text-7xl xl:text-9xl'>ABC</p></h1>
