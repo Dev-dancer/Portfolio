@@ -9,7 +9,7 @@ export const ProjectReuse = (props) => {
     whileInView={{ opacity: 1 }}
     transition={{duration: 0.5, delay:0.25}}>
 
-   <div className='md:m-8 md:mt-0 lg:m-4 mt-0 flex flex-col   md:col-span-2 lg:col-span-1 bg-gradient-to-t from-violet-100 text-black border-black border-2 hover:scale-105 transition-all duration-500 '>
+   <div className='m-4 md:m-8 md:mt-0 lg:m-4 mt-0 flex flex-col   md:col-span-2 lg:col-span-1 bg-gradient-to-t from-violet-100 text-black border-black border-2 hover:scale-105 transition-all duration-500 '>
           <div>
             <img className='w-full p-2' src={props.imglink} alt="" />
           </div>
