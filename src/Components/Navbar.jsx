@@ -8,7 +8,7 @@ export const Navbar = () => {
   const [openmenu,setopenmenu]=useState(false);
   return (
     <>
-        <button   className=' w-12 h-12  bg-black m-2 flex flex-row justify-center items-center fixed bottom-0 '>
+        <button   className='md:hidden w-12 h-12  bg-black m-2 flex flex-row justify-center items-center fixed bottom-0 '>
            
             <div >
               

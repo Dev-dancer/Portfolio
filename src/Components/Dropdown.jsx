@@ -4,7 +4,7 @@ import { faInfo,faHome } from "@fortawesome/free-solid-svg-icons";
 export const Dropdown = () => {
   return (
     <>
-    <div id="largeclasses" className=''>
+    <div id="largeclasses" className='md:hidden'>
 
     <ul className='p-4 text-lg text-white fixed flex flex-row items-center gap-4 bg-black bottom-2 left-12 h-12  ' >
         {/* <li><FontAwesomeIcon icon={faInfo} className=' size-7 ' style={{color: "white"}} /></li>
