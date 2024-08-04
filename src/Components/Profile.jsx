@@ -57,7 +57,7 @@ export const Profile = () => {
 
       <h1 className='mt-6 text-black text-3xl  font-thin ml-4  md:mt-2 md:text-4xl '>ABOUT</h1>
 
-        <p className='m-4 mt-2  font-normal text-lg tracking-tighter text-justify  ' >Hello! I'm an enthusiastic code and web developer with a passion for creating dynamic, user-friendly websites and applications. My journey in the world of coding began with a curiosity for how things work behind the scenes, and it has since evolved into a full-fledged career that I love.
+        <p className='m-4 mt-2  font-normal text-lg tracking-tighter text-justify  ' >Hello! I'm Devansh and I am an enthusiastic coder and web developer with a passion for creating dynamic, user-friendly websites, applications and also solving problems. My journey in the world of coding began with a curiosity for how things work behind the scenes, and it has since evolved into a full-fledged career choice that I love.
          
         </p>
 
